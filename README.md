@@ -14,6 +14,6 @@ Black, as a color, carries negative connotations across many cultures. This is m
 
 A smarter way to attack this entire messed up situation is to stop calling a certain group of people with color. Don't call people who are scientifically categorized as the Negroid race "black". Stop using "white" as a group of people as well.
 
-Hunting down blacklist or whitelist only reinforces the stereotype. Also, it's simply a waste of time for many developers across the globe. The US is not the center of the world.
+Hunting down blacklist or whitelist only reinforces the stereotype. Also, it's simply a waste of time for many developers across the globe. The US is not the center of the world. Learn from our history. Many countries banned the use of the language of enemies.
 
 Stop the hypocrisy. Focus on the right and the most important thing to do. Stop ridiculous political performance. Stop pretending like you care under-presented groups of people. Please.
