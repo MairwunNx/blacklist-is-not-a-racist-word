@@ -5,9 +5,9 @@ TL;DR
 - Blacklist does NOT have racist etymology and has never carried racist connotations.
 - You're just wasting other people's time for things that will never solve any racism problems.
 
-Allowlist and denylist are more descriptive than whitelist and blacklist. Ok, I can agree with that. Let's start using them for new projects.
+You can argue that allowlist and denylist are more descriptive than whitelist and blacklist. That's what YOU feel, so nobody will stop you from changing terms in your personal projects.
 
-But, please use your brain before making changes to existing projects. Is it really worth your time? Definitely no. A bigger NO if your motive was from the fact you want to see blacklist or whitelist is a racist word. No. Please don't waste our precious time. Let me tell you why I say so.
+But, please use your brain before making changes to existing projects, especially when they are public, used by tens of thousands of users, and your changes are likely to cause BC breaks. Is it really worth everyone's time? Definitely no. A bigger NO if your motive was from the fact you want to make blacklist or whitelist a racist word. No. Please don't waste our precious time. Let me tell you why I say so.
 
 First of all, the origins of "blacklist" have nothing to do with racism. It doesn't carry racial connotations at all. And, more importantly, it has never been used as an abusive word against black people. You are just trying to find racism in everyday language. If you're not a racist, you wouldn't come up with this misuse of completely irrelevant terms.
 
