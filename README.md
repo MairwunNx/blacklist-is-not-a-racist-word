@@ -2,6 +2,7 @@
 
 TL;DR
 - Stop using colors to label groups of people
+- `master` and `slave` branch names also NOT have racist context and never've.
 - Blacklist does NOT have racist etymology and has never carried racist connotations.
 - You're just wasting other people's time for things that will never solve any racism problems.
 
